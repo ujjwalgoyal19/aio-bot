@@ -40,21 +40,16 @@ To use the extension, simply click on the extension icon in the Chrome toolbar. 
 
 ## 👀 Preview
 
-<div style="display: flex; Gap: 2rem; align-items: center;">
+<div align="center">
 
 ### ChatGPT
 ![](github/gpt.gif)
 
-</div>
 
-<div style="display: flex; Gap: 2rem; align-items: center;">
-
-![](github/bard.gif)
 ### Bard
+![](github/bard.gif)
 
-</div>
 
-<div style="display: flex; Gap: 2rem; align-items: center;">
 
 ### Bing
 ![](github/bing.gif)
