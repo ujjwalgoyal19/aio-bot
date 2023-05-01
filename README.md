@@ -45,13 +45,16 @@ To use the extension, simply click on the extension icon in the Chrome toolbar. 
 **Integration with OpenAI's ChatGPT**
 ![](github/gpt.gif)
 
+</div>
 
-<br>
+<div align="center">
 
 **Integration with Google's Bard**
 ![](github/bard.gif)
 
-<br>
+</div>
+
+<div align="center">
 
 **Integration with Bing's Chat**
 ![](github/bing.gif)
