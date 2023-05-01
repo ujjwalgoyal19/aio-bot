@@ -10,7 +10,7 @@ Access your favourite AI bot on any website, completely for free.
 
 
 
-[Preview](#Preview) | [Donation](https://www.buymeacoffee.com/umpixel) | [Credit](#Credit)
+[Preview](#👀 Preview) | [Donation](https://www.buymeacoffee.com/umpixel) | [Credit](#Credit)
 
 </div>
 
