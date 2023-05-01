@@ -40,12 +40,8 @@ To use the extension, simply click on the extension icon in the Chrome toolbar. 
 
 ## 👀 Preview
 
-
+![](https://github.com/madhurgoyal19/aio-bot/github/gpt.gif)
+![](https://github.com/madhurgoyal19/aio-bot/github/bard.gif)
+![](https://github.com/madhurgoyal19/aio-bot/github/bing.gif)
 
 ## 🙏 Credit
-
-
-
-
-
-
