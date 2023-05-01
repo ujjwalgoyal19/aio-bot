@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "modifyHeaders",
+      "requestHeaders": [
+        {
+          "header": "User-Agent",
+          "operation": "set",
+          "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48"
+        }
+      ]
+    },
+    "condition": {
+      "regexFilter": ".*bing.com.*",
+      "resourceTypes": ["sub_frame"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "modifyHeaders",
+      "requestHeaders": [
+        { "header": "Sec-Fetch-Dest", "operation": "set", "value": "document" }
+      ],
+      "responseHeaders": [
+        {
+          "header": "X-Frame-Options",
+          "operation": "remove"
+        },
+        {
+          "header": "Frame-Options",
+          "operation": "remove"
+        }
+      ]
+    },
+    "condition": {
+      "regexFilter": ".*google.com.*",
+      "resourceTypes": ["sub_frame"]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "modifyHeaders",
+      "requestHeaders": [
+        { "header": "Sec-Fetch-Dest", "operation": "set", "value": "document" }
+      ],
+      "responseHeaders": [
+        {
+          "header": "X-Frame-Options",
+          "operation": "remove"
+        },
+        {
+          "header": "Frame-Options",
+          "operation": "remove"
+        }
+      ]
+    },
+    "condition": {
+      "regexFilter": ".*openai.com.*",
+      "resourceTypes": ["sub_frame"]
+    }
+  }
+]

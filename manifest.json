@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "All in one AI BOT",
+  "version": "1.0.0",
+  "description": "All in one AI BOT",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "128": "./assets/128.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "*://*.bing.com/*",
+    "*://*.google.com/*",
+    "*://*.openai.com/*"
+  ],
+  "permissions": ["webRequest", "tabs", "declarativeNetRequestWithHostAccess"],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "1",
+        "enabled": true,
+        "path": "rules/index.json"
+      }
+    ]
+  }
+}
