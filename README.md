@@ -40,7 +40,7 @@ To use the extension, simply click on the extension icon in the Chrome toolbar. 
 
 ## Preview
 
-<div align="center">
+<div style="display:flex; flex-direction:column;">
 
 **Integration with OpenAI's ChatGPT**
 ![](github/gpt.gif)
