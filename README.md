@@ -20,7 +20,7 @@ The extension is designed to open the **OpenAI chat login page,** the **Bing sig
 
 **To install the extension, follow these steps:**
 
-- Clone the repository to your local machine.
+- [Download the zip file](https://github.com/madhurgoyal19/aio-bot/releases/tag/V1.0.0) and extract it.
 - Open Google Chrome and navigate to chrome://extensions.
 - Enable developer mode by toggling the switch in the top right corner.
 - Click on "Load unpacked" and select the folder containing the extension's files.
