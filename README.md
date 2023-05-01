@@ -40,15 +40,18 @@ To use the extension, simply click on the extension icon in the Chrome toolbar. 
 
 ## Preview
 
-<div style="display:flex; flex-direction:column;">
+<div align="center">
 
 **Integration with OpenAI's ChatGPT**
+
 ![](github/gpt.gif)
 
 **Integration with Google's Bard**
+
 ![](github/bard.gif)
 
 **Integration with Bing's Chat**
+
 ![](github/bing.gif)
 
 </div>
