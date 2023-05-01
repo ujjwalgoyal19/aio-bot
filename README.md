@@ -10,7 +10,7 @@ Access your favourite AI bot on any website, completely for free.
 
 
 
-[Preview](#👀 Preview) | [Donation](https://www.buymeacoffee.com/umpixel) | [Credit](#Credit)
+[Preview](#Preview) | [Donation](https://www.buymeacoffee.com/umpixel) | [Credit](#Credit)
 
 </div>
 
@@ -38,7 +38,7 @@ The extension is designed to open the **OpenAI chat login page,** the **Bing sig
 
 To use the extension, simply click on the extension icon in the Chrome toolbar. The popup window will appear and the three frames will generate automatically and you can choose which AI provider to use.
 
-## 👀 Preview
+## Preview
 
 <div align="center">
 
@@ -57,7 +57,7 @@ To use the extension, simply click on the extension icon in the Chrome toolbar. 
 </div>
 
 
-## 🙏 Credit
+## Credit
 
 Thanks to [Bing Chat for all Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) and [Framer](https://github.com/MartinWie/Framer) for providing solutions to my project. Their code was instrumental in helping me overcome issues related to Bing Chat availability and iframes.
 
