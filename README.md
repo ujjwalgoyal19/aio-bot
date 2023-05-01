@@ -40,8 +40,29 @@ To use the extension, simply click on the extension icon in the Chrome toolbar. 
 
 ## 👀 Preview
 
-![](https://github.com/madhurgoyal19/aio-bot/tree/master/github/gpt.gif)
-![](https://github.com/madhurgoyal19/aio-bot/tree/master/github/bard.gif)
-![](https://github.com/madhurgoyal19/aio-bot/tree/master/github/bing.gif)
+<div style="display: flex; Gap: 2rem; align-items: center;">
+
+### ChatGPT
+![](github/gpt.gif)
+
+</div>
+
+<div style="display: flex; Gap: 2rem; align-items: center;">
+
+![](github/bard.gif)
+### Bard
+
+</div>
+
+<div style="display: flex; Gap: 2rem; align-items: center;">
+
+### Bing
+![](github/bing.gif)
+
+</div>
+
 
 ## 🙏 Credit
+
+Thanks to [Bing Chat for all Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) and [Framer](https://github.com/MartinWie/Framer) for providing solutions to my project. Their code was instrumental in helping me overcome issues related to Bing Chat availability and iframes.
+
