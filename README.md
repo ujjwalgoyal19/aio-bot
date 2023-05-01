@@ -42,16 +42,18 @@ To use the extension, simply click on the extension icon in the Chrome toolbar. 
 
 <div align="center">
 
-### ChatGPT
+**Integration with OpenAI's ChatGPT**
 ![](github/gpt.gif)
 
 
-### Bard
+<br>
+
+**Integration with Google's Bard**
 ![](github/bard.gif)
 
+<br>
 
-
-### Bing
+**Integration with Bing's Chat**
 ![](github/bing.gif)
 
 </div>
