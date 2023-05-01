@@ -59,5 +59,5 @@ To use the extension, simply click on the extension icon in the Chrome toolbar. 
 
 ## Credit
 
-Thanks to [Bing Chat for all Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) and [Framer](https://github.com/MartinWie/Framer) for providing solutions to my project. Their code was instrumental in helping me overcome issues related to Bing Chat availability and iframes.
+Thanks to [Bing Chat for all Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) and [Framer](https://github.com/MartinWie/Framer) for solutions relevant to my project. Their code was helpful in helping me overcome issues related to Bing Chat availability and iframes.
 
