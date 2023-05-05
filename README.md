@@ -14,7 +14,10 @@ Access your favourite AI bot on any website, completely for free.
 
 ### Install 
 
-[![Chrome][https://img.shields.io/badge/-Chrome-brightgreen?logo=google-chrome&logoColor=white]][https://chrome.google.com/webstore/detail/all-in-one-ai-bot/nlfembngkmgelahbccckandolbmajjpm]
+[![Chrome][Chrome-image]][Chrome-url]
+
+[Chrome-image]: https://img.shields.io/badge/-Chrome-brightgreen?logo=google-chrome&logoColor=white
+[Chrome-url]: https://chrome.google.com/webstore/detail/all-in-one-ai-bot/nlfembngkmgelahbccckandolbmajjpm
 
 </div>
 
