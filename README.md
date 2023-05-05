@@ -54,10 +54,11 @@ To use the extension, simply click on the extension icon in the Chrome toolbar. 
 
 ## Preview
 
-
+<br/>
 
 ![](github/bots.png)
 
+<br/>
 
 
 <div align="center">
