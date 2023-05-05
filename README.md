@@ -54,7 +54,10 @@ To use the extension, simply click on the extension icon in the Chrome toolbar. 
 
 ## Preview
 
+![](github/bots.png)
+
 <div align="center">
+
 
 **Integration with OpenAI's ChatGPT**
 
