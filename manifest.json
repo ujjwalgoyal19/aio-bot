@@ -17,7 +17,7 @@
     "*://*.google.com/*",
     "*://*.openai.com/*"
   ],
-  "permissions": ["webRequest", "tabs", "declarativeNetRequestWithHostAccess"],
+  "permissions": ["declarativeNetRequestWithHostAccess"],
   "declarative_net_request": {
     "rule_resources": [
       {
