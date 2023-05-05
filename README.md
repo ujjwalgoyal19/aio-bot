@@ -12,7 +12,9 @@ Access your favourite AI bot on any website, completely for free.
 
 [Preview](#Preview) | [Donation](https://www.buymeacoffee.com/umpixel) | [Credit](#Credit)
 
-### Install [![Chrome][https://img.shields.io/badge/-Chrome-brightgreen?logo=google-chrome&logoColor=white]][https://chrome.google.com/webstore/detail/all-in-one-ai-bot/nlfembngkmgelahbccckandolbmajjpm]
+### Install 
+
+[![Chrome][https://img.shields.io/badge/-Chrome-brightgreen?logo=google-chrome&logoColor=white]][https://chrome.google.com/webstore/detail/all-in-one-ai-bot/nlfembngkmgelahbccckandolbmajjpm]
 
 </div>
 
