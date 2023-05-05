@@ -8,6 +8,7 @@
 
 Access your favourite AI bot on any website, completely for free.
 
+[![license][license-image]][license-url]
 
 
 [Preview](#Preview) | [Donation](https://www.buymeacoffee.com/umpixel) | [Credit](#Credit)
@@ -17,7 +18,13 @@ Access your favourite AI bot on any website, completely for free.
 [![Chrome][Chrome-image]][Chrome-url]
 
 [Chrome-image]: https://img.shields.io/badge/-Chrome-brightgreen?logo=google-chrome&logoColor=white
+
 [Chrome-url]: https://chrome.google.com/webstore/detail/all-in-one-ai-bot/nlfembngkmgelahbccckandolbmajjpm
+
+[license-image]: http://img.shields.io/badge/license-MIT-blue.svg
+
+[license-url]: https://github.com/madhurgoyal19/aio-bot/blob/master/LICENSE
+
 
 </div>
 
